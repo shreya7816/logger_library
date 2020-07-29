@@ -7,11 +7,11 @@ import com.logger_library.managers.LogManager;
 
 public class LoggerTest {
 	
-	public static final Logger logger = LogManager.getLogger(LoggerTest.class);
-
-	@Test
-	public void run() {
-		logger.info("abc");
-	}
+//	public static final Logger logger = LogManager.getLogger(LoggerTest.class);
+//
+//	@Test
+//	public void run() {
+//		logger.info("abc");
+//	}
 
 }
